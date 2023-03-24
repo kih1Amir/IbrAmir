@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    margin: auto;
+}
+div{
+    margin-top: 2px;
+    text-align: center;
+}
+.container{
+    width: auto;
+}
+.Header{
+    background-color: blue;
+    border: 10px solid black;
+    height: 100px;
+    margin: 40px;
+    padding: 20px;
+}
+.navbar{
+    background-color: purple;
+    height: 60px;
+    border: 10px solid black;
+    margin: 40px;
+}
+.MainContentArea{
+    background-color: blue;
+    height: 50px;
+    border:10px solid black;
+    margin: 40px;
+}
+.footer{
+    margin-top: 10px;
+    background-color: purple;
+    height: 150px;
+    border: 10px solid black;
+}
